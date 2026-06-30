@@ -1,4 +1,4 @@
-Hi there 👋 I'm Ilia Gegeshidze, from Georgia. I'm young Front-end WEB developer and working on real projects/websites for companies. I'm fascinated by learning new Technologies, codes, programming languages... So, I'm passionate about learning New Modern Technoliges.
+Hi there 👋 I'm Ilia Gegeshidze, from Georgia. I'm young Front-end WEB developer and working on real projects/websites for companies. I'm fascinated by learning new Technologies, codes, programming languages... So, I'm passionate about learning New Modern Technologies.
 
 Programming Languages I work with day-to-day:
 
